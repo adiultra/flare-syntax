@@ -1,7 +1,7 @@
 {
   "name": "flare-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "Someone's Diseased",
   "keywords": [
     "syntax",
@@ -9,7 +9,7 @@
     "warm",
     "theme"
   ],
-  "repository": "https://github.com/atom/flare-syntax",
+  "repository": "https://github.com/adiultra/flare-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
