@@ -1,5 +1,9 @@
 # flare-syntax theme
 
-A short description of your theme.
+This is the Diseased Theme that is dark n hot still vibrant and fun to use.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+Oh! You caught flare-syntax.
+
+![A screenshot of flare-syntax theme](http://i.imgur.com/npimixY.png)
+
+To be Used with One-dark or anything you prefer...
